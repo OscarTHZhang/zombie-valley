@@ -1,5 +1,5 @@
 # Zombie Valley
-My personal website, including projects I've completed and current projects I'm working on
+This is a python-tkinter project inspired by the instruction from 15-112 in summer 2017
 
 Product Name: The Defender 
 Label: Game, Shooting, Tower-defensing
